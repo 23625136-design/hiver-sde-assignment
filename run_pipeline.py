@@ -8,7 +8,7 @@ args = parser.parse_args()
 
 df = pd.read_csv("data/sample_data.csv")
 
-print("AppleSupport Customer Support Pipeline")
+print(f"{args.brand} Customer Support Pipeline")
 print("-------------------------------------")
 print("Brand:", args.brand)
 print("Sample mode:", args.sample)
