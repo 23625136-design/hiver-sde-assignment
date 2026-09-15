@@ -9,7 +9,12 @@ args = parser.parse_args()
 df = pd.read_csv("data/sample_data.csv")
 
 print("AppleSupport Customer Support Pipeline")
+print("-------------------------------------")
 print("Brand:", args.brand)
 print("Sample mode:", args.sample)
 print("Total rows:", len(df))
-print("Pipeline completed successfully")
+
+if "customer_message" in df.columns:
+    print("Customer messages loaded successfully.")
+
+    print("Pipeline completed successfully")
