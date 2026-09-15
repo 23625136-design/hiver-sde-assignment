@@ -49,3 +49,11 @@ Run:
 python baselines.py
 
 This evaluates the trivial and simple keyword baselines.
+## Data Download
+
+The project uses the AppleSupport customer-support dataset.
+
+For a quick reproducible run, use:
+data/sample_data.csv
+
+The sample file is included in this repository so the pipeline can be tested without downloading the full dataset.
