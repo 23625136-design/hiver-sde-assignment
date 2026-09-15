@@ -43,3 +43,9 @@ A production-scale customer support system and live deployment were outside the 
 
 ## Limitations
 Further human annotation and real-world validation are required before production use.
+## Baseline Evaluation
+
+Run:
+python baselines.py
+
+This evaluates the trivial and simple keyword baselines.
