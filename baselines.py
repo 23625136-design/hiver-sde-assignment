@@ -1,32 +1,43 @@
 import pandas as pd
-
+from sklearn.metrics import accuracy_score, f1_score
 
 df = pd.read_csv("data/sample_data.csv")
 
-# Trivial baseline: always predict the most common intent
-most_common = df["label"].mode()[0]
+y_true = df["label"]
+
+# Trivial baseline: most common class
+most_common = y_true.mode()[0]
+trivial_pred = [most_common] * len(df)
 
 
-# Simple baseline: keyword-based prediction
+# Simple keyword baseline
 def simple_baseline(text):
-    text = text.lower()
+    text = str(text).lower()
 
     if "refund" in text:
         return "refund_issue"
-    if "delivery" in text or "late" in text:
+    elif "delivery" in text or "late" in text:
         return "delivery_issue"
-    if "payment" in text:
+    elif "payment" in text:
         return "payment_issue"
-    if "return" in text:
+    elif "return" in text:
         return "return_issue"
-    if "account" in text:
+    elif "account" in text:
         return "account_issue"
+    else:
+        return "other"
 
-    return "other"
 
+simple_pred = [simple_baseline(text) for text in df["customer_message"]]
 
-print("Baseline evaluation")
-print("Most common intent:", most_common)
-print("Trivial baseline: always predicts", most_common)
-print("Simple baseline: keyword-based classifier")
+print("Baseline Evaluation")
+print("-------------------")
 print("Total examples:", len(df))
+
+print("\nTrivial Baseline")
+print("Accuracy:", round(accuracy_score(y_true, trivial_pred), 3))
+print("Macro F1:", round(f1_score(y_true, trivial_pred, average="macro", zero_division=0), 3))
+
+print("\nSimple Keyword Baseline")
+print("Accuracy:", round(accuracy_score(y_true, simple_pred), 3))
+print("Macro F1:", round(f1_score(y_true, simple_pred, average="macro", zero_division=0), 3))
