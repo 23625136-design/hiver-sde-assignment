@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "text": "AppleSupport evaluation example 1",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 2,
+    "text": "AppleSupport evaluation example 2",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 3,
+    "text": "AppleSupport evaluation example 3",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 4,
+    "text": "AppleSupport evaluation example 4",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 5,
+    "text": "AppleSupport evaluation example 5",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 6,
+    "text": "AppleSupport evaluation example 6",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 7,
+    "text": "AppleSupport evaluation example 7",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 8,
+    "text": "AppleSupport evaluation example 8",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 9,
+    "text": "AppleSupport evaluation example 9",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 10,
+    "text": "AppleSupport evaluation example 10",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 11,
+    "text": "AppleSupport evaluation example 11",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 12,
+    "text": "AppleSupport evaluation example 12",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 13,
+    "text": "AppleSupport evaluation example 13",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 14,
+    "text": "AppleSupport evaluation example 14",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 15,
+    "text": "AppleSupport evaluation example 15",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 16,
+    "text": "AppleSupport evaluation example 16",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 17,
+    "text": "AppleSupport evaluation example 17",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 18,
+    "text": "AppleSupport evaluation example 18",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 19,
+    "text": "AppleSupport evaluation example 19",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 20,
+    "text": "AppleSupport evaluation example 20",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 21,
+    "text": "AppleSupport evaluation example 21",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 22,
+    "text": "AppleSupport evaluation example 22",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 23,
+    "text": "AppleSupport evaluation example 23",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 24,
+    "text": "AppleSupport evaluation example 24",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 25,
+    "text": "AppleSupport evaluation example 25",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 26,
+    "text": "AppleSupport evaluation example 26",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 27,
+    "text": "AppleSupport evaluation example 27",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 28,
+    "text": "AppleSupport evaluation example 28",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 29,
+    "text": "AppleSupport evaluation example 29",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 30,
+    "text": "AppleSupport evaluation example 30",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 31,
+    "text": "AppleSupport evaluation example 31",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 32,
+    "text": "AppleSupport evaluation example 32",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 33,
+    "text": "AppleSupport evaluation example 33",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 34,
+    "text": "AppleSupport evaluation example 34",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 35,
+    "text": "AppleSupport evaluation example 35",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 36,
+    "text": "AppleSupport evaluation example 36",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 37,
+    "text": "AppleSupport evaluation example 37",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 38,
+    "text": "AppleSupport evaluation example 38",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 39,
+    "text": "AppleSupport evaluation example 39",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 40,
+    "text": "AppleSupport evaluation example 40",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 41,
+    "text": "AppleSupport evaluation example 41",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 42,
+    "text": "AppleSupport evaluation example 42",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 43,
+    "text": "AppleSupport evaluation example 43",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 44,
+    "text": "AppleSupport evaluation example 44",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 45,
+    "text": "AppleSupport evaluation example 45",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 46,
+    "text": "AppleSupport evaluation example 46",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 47,
+    "text": "AppleSupport evaluation example 47",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 48,
+    "text": "AppleSupport evaluation example 48",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 49,
+    "text": "AppleSupport evaluation example 49",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 50,
+    "text": "AppleSupport evaluation example 50",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 51,
+    "text": "AppleSupport evaluation example 51",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 52,
+    "text": "AppleSupport evaluation example 52",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 53,
+    "text": "AppleSupport evaluation example 53",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 54,
+    "text": "AppleSupport evaluation example 54",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 55,
+    "text": "AppleSupport evaluation example 55",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 56,
+    "text": "AppleSupport evaluation example 56",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 57,
+    "text": "AppleSupport evaluation example 57",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 58,
+    "text": "AppleSupport evaluation example 58",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 59,
+    "text": "AppleSupport evaluation example 59",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 60,
+    "text": "AppleSupport evaluation example 60",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 61,
+    "text": "AppleSupport evaluation example 61",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 62,
+    "text": "AppleSupport evaluation example 62",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 63,
+    "text": "AppleSupport evaluation example 63",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 64,
+    "text": "AppleSupport evaluation example 64",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 65,
+    "text": "AppleSupport evaluation example 65",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 66,
+    "text": "AppleSupport evaluation example 66",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 67,
+    "text": "AppleSupport evaluation example 67",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 68,
+    "text": "AppleSupport evaluation example 68",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 69,
+    "text": "AppleSupport evaluation example 69",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 70,
+    "text": "AppleSupport evaluation example 70",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 71,
+    "text": "AppleSupport evaluation example 71",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 72,
+    "text": "AppleSupport evaluation example 72",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 73,
+    "text": "AppleSupport evaluation example 73",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 74,
+    "text": "AppleSupport evaluation example 74",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 75,
+    "text": "AppleSupport evaluation example 75",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 76,
+    "text": "AppleSupport evaluation example 76",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 77,
+    "text": "AppleSupport evaluation example 77",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 78,
+    "text": "AppleSupport evaluation example 78",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 79,
+    "text": "AppleSupport evaluation example 79",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 80,
+    "text": "AppleSupport evaluation example 80",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 81,
+    "text": "AppleSupport evaluation example 81",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 82,
+    "text": "AppleSupport evaluation example 82",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 83,
+    "text": "AppleSupport evaluation example 83",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 84,
+    "text": "AppleSupport evaluation example 84",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 85,
+    "text": "AppleSupport evaluation example 85",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 86,
+    "text": "AppleSupport evaluation example 86",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 87,
+    "text": "AppleSupport evaluation example 87",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 88,
+    "text": "AppleSupport evaluation example 88",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 89,
+    "text": "AppleSupport evaluation example 89",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 90,
+    "text": "AppleSupport evaluation example 90",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 91,
+    "text": "AppleSupport evaluation example 91",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 92,
+    "text": "AppleSupport evaluation example 92",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 93,
+    "text": "AppleSupport evaluation example 93",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 94,
+    "text": "AppleSupport evaluation example 94",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 95,
+    "text": "AppleSupport evaluation example 95",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 96,
+    "text": "AppleSupport evaluation example 96",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 97,
+    "text": "AppleSupport evaluation example 97",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 98,
+    "text": "AppleSupport evaluation example 98",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 99,
+    "text": "AppleSupport evaluation example 99",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 100,
+    "text": "AppleSupport evaluation example 100",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 101,
+    "text": "AppleSupport evaluation example 101",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 102,
+    "text": "AppleSupport evaluation example 102",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 103,
+    "text": "AppleSupport evaluation example 103",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 104,
+    "text": "AppleSupport evaluation example 104",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 105,
+    "text": "AppleSupport evaluation example 105",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 106,
+    "text": "AppleSupport evaluation example 106",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 107,
+    "text": "AppleSupport evaluation example 107",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 108,
+    "text": "AppleSupport evaluation example 108",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 109,
+    "text": "AppleSupport evaluation example 109",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 110,
+    "text": "AppleSupport evaluation example 110",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 111,
+    "text": "AppleSupport evaluation example 111",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 112,
+    "text": "AppleSupport evaluation example 112",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 113,
+    "text": "AppleSupport evaluation example 113",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 114,
+    "text": "AppleSupport evaluation example 114",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 115,
+    "text": "AppleSupport evaluation example 115",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 116,
+    "text": "AppleSupport evaluation example 116",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 117,
+    "text": "AppleSupport evaluation example 117",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 118,
+    "text": "AppleSupport evaluation example 118",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 119,
+    "text": "AppleSupport evaluation example 119",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 120,
+    "text": "AppleSupport evaluation example 120",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 121,
+    "text": "AppleSupport evaluation example 121",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 122,
+    "text": "AppleSupport evaluation example 122",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 123,
+    "text": "AppleSupport evaluation example 123",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 124,
+    "text": "AppleSupport evaluation example 124",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 125,
+    "text": "AppleSupport evaluation example 125",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 126,
+    "text": "AppleSupport evaluation example 126",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 127,
+    "text": "AppleSupport evaluation example 127",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 128,
+    "text": "AppleSupport evaluation example 128",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 129,
+    "text": "AppleSupport evaluation example 129",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 130,
+    "text": "AppleSupport evaluation example 130",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 131,
+    "text": "AppleSupport evaluation example 131",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 132,
+    "text": "AppleSupport evaluation example 132",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 133,
+    "text": "AppleSupport evaluation example 133",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 134,
+    "text": "AppleSupport evaluation example 134",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 135,
+    "text": "AppleSupport evaluation example 135",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 136,
+    "text": "AppleSupport evaluation example 136",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 137,
+    "text": "AppleSupport evaluation example 137",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 138,
+    "text": "AppleSupport evaluation example 138",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 139,
+    "text": "AppleSupport evaluation example 139",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 140,
+    "text": "AppleSupport evaluation example 140",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 141,
+    "text": "AppleSupport evaluation example 141",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 142,
+    "text": "AppleSupport evaluation example 142",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 143,
+    "text": "AppleSupport evaluation example 143",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 144,
+    "text": "AppleSupport evaluation example 144",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 145,
+    "text": "AppleSupport evaluation example 145",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 146,
+    "text": "AppleSupport evaluation example 146",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 147,
+    "text": "AppleSupport evaluation example 147",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 148,
+    "text": "AppleSupport evaluation example 148",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 149,
+    "text": "AppleSupport evaluation example 149",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 150,
+    "text": "AppleSupport evaluation example 150",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 151,
+    "text": "AppleSupport evaluation example 151",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 152,
+    "text": "AppleSupport evaluation example 152",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 153,
+    "text": "AppleSupport evaluation example 153",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 154,
+    "text": "AppleSupport evaluation example 154",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 155,
+    "text": "AppleSupport evaluation example 155",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 156,
+    "text": "AppleSupport evaluation example 156",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 157,
+    "text": "AppleSupport evaluation example 157",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 158,
+    "text": "AppleSupport evaluation example 158",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 159,
+    "text": "AppleSupport evaluation example 159",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 160,
+    "text": "AppleSupport evaluation example 160",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 161,
+    "text": "AppleSupport evaluation example 161",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 162,
+    "text": "AppleSupport evaluation example 162",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 163,
+    "text": "AppleSupport evaluation example 163",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 164,
+    "text": "AppleSupport evaluation example 164",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 165,
+    "text": "AppleSupport evaluation example 165",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 166,
+    "text": "AppleSupport evaluation example 166",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 167,
+    "text": "AppleSupport evaluation example 167",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 168,
+    "text": "AppleSupport evaluation example 168",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 169,
+    "text": "AppleSupport evaluation example 169",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 170,
+    "text": "AppleSupport evaluation example 170",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 171,
+    "text": "AppleSupport evaluation example 171",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 172,
+    "text": "AppleSupport evaluation example 172",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 173,
+    "text": "AppleSupport evaluation example 173",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 174,
+    "text": "AppleSupport evaluation example 174",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 175,
+    "text": "AppleSupport evaluation example 175",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 176,
+    "text": "AppleSupport evaluation example 176",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 177,
+    "text": "AppleSupport evaluation example 177",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 178,
+    "text": "AppleSupport evaluation example 178",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 179,
+    "text": "AppleSupport evaluation example 179",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 180,
+    "text": "AppleSupport evaluation example 180",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 181,
+    "text": "AppleSupport evaluation example 181",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 182,
+    "text": "AppleSupport evaluation example 182",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 183,
+    "text": "AppleSupport evaluation example 183",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 184,
+    "text": "AppleSupport evaluation example 184",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 185,
+    "text": "AppleSupport evaluation example 185",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 186,
+    "text": "AppleSupport evaluation example 186",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 187,
+    "text": "AppleSupport evaluation example 187",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 188,
+    "text": "AppleSupport evaluation example 188",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 189,
+    "text": "AppleSupport evaluation example 189",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  },
+  {
+    "id": 190,
+    "text": "AppleSupport evaluation example 190",
+    "intent": "damaged_or_missing_item",
+    "should_escalate": false
+  },
+  {
+    "id": 191,
+    "text": "AppleSupport evaluation example 191",
+    "intent": "refund_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 192,
+    "text": "AppleSupport evaluation example 192",
+    "intent": "payment_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 193,
+    "text": "AppleSupport evaluation example 193",
+    "intent": "return_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 194,
+    "text": "AppleSupport evaluation example 194",
+    "intent": "order_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 195,
+    "text": "AppleSupport evaluation example 195",
+    "intent": "account_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 196,
+    "text": "AppleSupport evaluation example 196",
+    "intent": "prime_membership_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 197,
+    "text": "AppleSupport evaluation example 197",
+    "intent": "digital_device_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 198,
+    "text": "AppleSupport evaluation example 198",
+    "intent": "other",
+    "should_escalate": false
+  },
+  {
+    "id": 199,
+    "text": "AppleSupport evaluation example 199",
+    "intent": "delivery_issue",
+    "should_escalate": false
+  },
+  {
+    "id": 200,
+    "text": "AppleSupport evaluation example 200",
+    "intent": "delivery_not_received",
+    "should_escalate": false
+  }
+]

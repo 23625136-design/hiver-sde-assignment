@@ -1,0 +1,7 @@
+[
+	{
+		"predicted_intent": "account_issue",
+		"generated_reply": "Please check your account settings and try again.",
+		"should_escalate": "Auto-handled"
+	}
+]
