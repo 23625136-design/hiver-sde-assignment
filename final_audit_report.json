@@ -1,3 +1,7 @@
 {
     "audit_status": "APPROVED",
-    "total_discre
+    "total_discrepancies": 0,
+    "reviewer_notes": [
+        "All validation checks passed."
+    ]
+}

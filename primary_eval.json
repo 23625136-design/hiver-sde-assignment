@@ -1,7 +1,6 @@
-[
-	{
-		"predicted_intent": "account_issue",
-		"generated_reply": "Please check your account settings and try again.",
-		"should_escalate": "Auto-handled"
-	}
-]
+{
+    "brand": "AppleSupport",
+      "should_escalate": "Escalate: Human review required",
+        "predicted_intent": "refund_issue",
+          "generated_reply": "Your refund request has been received and requires human review."
+          }
