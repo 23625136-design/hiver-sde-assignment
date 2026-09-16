@@ -1,6 +1,6 @@
 import argparse
 import pandas as pd
-
+ 
 parser = argparse.ArgumentParser()
 parser.add_argument("--brand", default="AppleSupport")
 parser.add_argument("--sample", action="store_true")
