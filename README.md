@@ -106,3 +106,7 @@ A 50-example double-labelled agreement study was not completed in the current ve
 
 The current sample contains simplified example messages rather than a sufficiently representative collection of real customer conversations. Therefore, the repository does not claim five real-world failure cases from this sample. A future evaluation should use real sampled conversations to identify and document the top five failure modes.
 
+
+### Sampling and Reproducibility
+The evaluation set is a fixed 200-example local set included in the repository. A random seed and stratification procedure were not used to construct the current version. The dataset is therefore intended for reproducible code testing rather than as a statistically representative sample of all AppleSupport conversations.
+
