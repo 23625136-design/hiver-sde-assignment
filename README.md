@@ -70,3 +70,18 @@ The headline evaluation result is based on the current evaluation set and should
 
 ### One More Week
 With one more week, I would improve the labelled evaluation set, add more real failure cases, improve escalation detection, and validate the system on a larger sample.
+
+### Evaluation Set Note
+The evaluation set contains 200 examples. The current repository uses a fixed local evaluation set for reproducibility. Escalation labels are included in the schema; the current set contains no positive escalation examples, so escalation precision is not meaningfully estimated.
+
+
+## LLM-as-Judge Rubric
+
+Generated replies can be reviewed using four criteria:
+1. Relevance — directly addresses the customer's issue.
+2. Correctness — does not make unsupported claims.
+3. Helpfulness — provides a clear next step.
+4. Tone — professional and appropriate for customer support.
+
+Judge temperature: 0.
+
