@@ -96,3 +96,8 @@ Judge temperature: 0.
 
 The evaluation system was measured on 200 examples. Escalation precision is 0.00 because the current evaluation set contains no positive escalation examples.
 
+
+## Human Agreement Limitation
+
+A 50-example double-labelled agreement study was not completed in the current version. Therefore, Cohen's kappa and per-criterion human-agreement statistics are not reported. This is a limitation of the evaluation and should be completed before treating the evaluation as production-quality evidence.
+
