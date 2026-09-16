@@ -57,3 +57,16 @@ For a quick reproducible run, use:
 data/sample_data.csv
 
 The sample file is included in this repository so the pipeline can be tested without downloading the full dataset.
+## Report
+
+### Problem Framing
+The system classifies AppleSupport customer messages, generates support replies, and identifies cases requiring escalation.
+
+### What I Chose Not to Build
+I did not build a full production deployment, real-time Twitter integration, or large-scale infrastructure.
+
+### Headline Number Caveat
+The headline evaluation result is based on the current evaluation set and should not be treated as representative of all customer-support conversations.
+
+### One More Week
+With one more week, I would improve the labelled evaluation set, add more real failure cases, improve escalation detection, and validate the system on a larger sample.
