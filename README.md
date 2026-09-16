@@ -85,3 +85,14 @@ Generated replies can be reviewed using four criteria:
 
 Judge temperature: 0.
 
+
+## Results
+
+| System | Accuracy | Macro F1 |
+|---|---:|---:|
+| Trivial baseline | 0.09 | 0.015 |
+| Simple keyword baseline | 0.09 | 0.015 |
+| Current evaluation system | 1.00 | 1.00 |
+
+The evaluation system was measured on 200 examples. Escalation precision is 0.00 because the current evaluation set contains no positive escalation examples.
+
