@@ -110,3 +110,7 @@ The current sample contains simplified example messages rather than a sufficient
 ### Sampling and Reproducibility
 The evaluation set is a fixed 200-example local set included in the repository. A random seed and stratification procedure were not used to construct the current version. The dataset is therefore intended for reproducible code testing rather than as a statistically representative sample of all AppleSupport conversations.
 
+
+### Confidence Interval
+For the 200-example evaluation set, observed intent accuracy is 1.00. The approximate 95% Wilson confidence interval for this observed accuracy is [0.981, 1.000]. This interval describes uncertainty for this evaluation sample and does not establish performance on the broader customer-support population.
+
