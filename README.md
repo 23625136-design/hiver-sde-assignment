@@ -101,3 +101,8 @@ The evaluation system was measured on 200 examples. Escalation precision is 0.00
 
 A 50-example double-labelled agreement study was not completed in the current version. Therefore, Cohen's kappa and per-criterion human-agreement statistics are not reported. This is a limitation of the evaluation and should be completed before treating the evaluation as production-quality evidence.
 
+
+## Failure Analysis Limitation
+
+The current sample contains simplified example messages rather than a sufficiently representative collection of real customer conversations. Therefore, the repository does not claim five real-world failure cases from this sample. A future evaluation should use real sampled conversations to identify and document the top five failure modes.
+
